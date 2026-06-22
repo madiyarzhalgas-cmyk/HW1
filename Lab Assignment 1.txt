@@ -1,0 +1,28 @@
+Lab Assignment 1
+Zhalgas Madiyar
+DNS
+I checked 3 websites:
+example.com
+wikipedia.org
+gitlab.com
+
+I used this command:
+dig example.com
+dig wikipedia.org
+dig gitlab.com
+DNS helps to find the IP address of a website.
+
+curl
+I checked status code with curl.
+curl -I https://example.com
+Status code was 200. It means the page works.
+curl -I https://example.com/123
+Status code was 404. It means the page was not found.
+
+DevTools
+I opened DevTools and went to Network.
+I refreshed the page.
+I saw requests like HTML, CSS, JavaScript and images.
+HTML is page structure.
+CSS is page design.
+JavaScript is for actions

@@ -1,11 +1,13 @@
 Lab Assignment 1
 Zhalgas Madiyar
 DNS
-I checked 2 websites:
+I checked 3 websites:
 wikipedia.org
 gitlab.com
+google.com
 
 I used this command:
 nslookup wikipedia.org
 nslookup gitlab.com
+nslookup gooogle.com
 DNS helps to find the IP address of a website.
